@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1671357132409,
+  "timestamp": 1671454285826,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -60,6 +60,8 @@
         "/assets/images/logos/angular/logo-nav@2x.png",
         "/assets/images/logos/angular/shield-large.svg",
         "/assets/images/logos/angularjs/AngularJS-Shield.svg",
+        "/assets/images/og/1200x630-cn.png",
+        "/assets/images/og/1200x630-tw.png",
         "/assets/images/support/angular-404.svg",
         "/generated/images/marketing/concept-icons/animations.png",
         "/generated/images/marketing/concept-icons/animations.svg",
@@ -1625,6 +1627,8 @@
     "/assets/images/logos/angular/logo-nav@2x.png": "c6c7a885ae56df388cbd88071f0b8b2bf2717000",
     "/assets/images/logos/angular/shield-large.svg": "dc69ca1485c8a23b34c1a1ebb0303796c7023b06",
     "/assets/images/logos/angularjs/AngularJS-Shield.svg": "4ac698a081bec34e9e6161a18d17b379de28e0d8",
+    "/assets/images/og/1200x630-cn.png": "4c04e680f8829553f9e25b895974f12da81f23d7",
+    "/assets/images/og/1200x630-tw.png": "66efa0e76264e45af05f0b968a8d6d4804625f51",
     "/assets/images/support/angular-404.svg": "507833dd280a6abfbb177b33fc7ba15a2906c77f",
     "/assets/js/prettify.js": "3c483dde2ebfe3675bdc06b2a77cde02d9e1cd83",
     "/dark-theme.css": "4a68e8b1c6b97e8aefc707fb917d524b30c30ff8",
@@ -3128,9 +3132,9 @@
     "/generated/images/marketing/home/responsive-framework.svg": "464305c2e23be8cfa677aa7c5b34e923c17c9591",
     "/generated/images/marketing/home/speed-performance.svg": "d67c709de15f5fb41617b1831f1c518e3ca2db74",
     "/generated/images/translations/cn/mail-dev-rel.gif": "37548a380a03319e2675ccec5de5314597c62f93",
-    "/generated/navigation.json": "a0c7418bf7916d00b35f57548370f82282fd6e88",
+    "/generated/navigation.json": "e6ec5ff8680a075465f5fbbdbd719523d7121056",
     "/generated/resources.json": "18214dcb347d946507e7da9a0757e6472b06c417",
-    "/index.html": "c6ca1ef248153cfe613297c0a999e19c7f347d46",
+    "/index.html": "5e48d23060ecb7b93c80d66b27c30e9c68761d99",
     "/light-theme.css": "8079c6d75d9ed05043ed150952569704cff1765f",
     "/main.4afb40e7feab8f74.js": "50c406aade6ea205262298f9c9c5c180b1fe5669",
     "/polyfills.ed08fdac4b920dd0.js": "0cba5c69e9ca097f2f90793c4e213e907a49f8b7",
